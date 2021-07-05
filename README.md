@@ -1,6 +1,8 @@
 # Machine-Learning-Coursera
 
-[Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning). Taught by Prof. `Andrew Ng.`
+[Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning).
+
+Taught by Prof. `Andrew Ng.`
 
 ## Syllabus:
 ### Week 1: Introduction
