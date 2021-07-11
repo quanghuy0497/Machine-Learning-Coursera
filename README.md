@@ -3,6 +3,7 @@
 [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning).
 
 Taught by Prof. `Andrew Ng.`
+**Certificate**: [Verified Certificate](https://www.coursera.org/account/accomplishments/verify/TSEK4R7ZQBRZ)
 
 ## Syllabus:
 ### Week 1: Introduction
