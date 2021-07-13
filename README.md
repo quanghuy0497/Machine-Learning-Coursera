@@ -43,6 +43,7 @@ Taught by Prof. `Andrew Ng.`
 [[Assignment]](https://github.com/quanghuy0497/Machine-Learning-Coursera/tree/main/machine-learning-ex4)
 - Foward Propagation
 - Backward Propagation
+- Gr
 - Random Initalization
 ### Week 6: Aviced for Applying Machine Learning
 [[Slides 10-11]](https://github.com/quanghuy0497/Machine-Learning-Coursera/tree/main/Slides) 
