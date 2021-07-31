@@ -4,8 +4,7 @@
 
 Taught by Prof. `Andrew Ng.`  
 
-### **Certificate**:
-   + [Verified Certificate](https://www.coursera.org/account/accomplishments/verify/TSEK4R7ZQBRZ)
+[**Verified Certificate**](https://www.coursera.org/account/accomplishments/verify/TSEK4R7ZQBRZ)
 
 ## Syllabus:
 ### Week 1: Introduction
@@ -43,7 +42,7 @@ Taught by Prof. `Andrew Ng.`
 [[Assignment]](https://github.com/quanghuy0497/Machine-Learning-Coursera/tree/main/machine-learning-ex4)
 - Foward Propagation
 - Backward Propagation
-- Gr
+- Gradient Checking
 - Random Initalization
 ### Week 6: Aviced for Applying Machine Learning
 [[Slides 10-11]](https://github.com/quanghuy0497/Machine-Learning-Coursera/tree/main/Slides) 
